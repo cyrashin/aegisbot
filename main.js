@@ -887,7 +887,7 @@ aegisAutomation.on('message', async message => {
 
 
 });
-client.login(process.env.NDg4NjI3NDA3MzM5OTEzMjE2.XMZoXQ.oNT6PQnUpxHna1PU5CR6xl-RyxA)
+client.login(process.env.BOT-TOKEN)
 
 aegisAutomation.login(`${token}`);
 
